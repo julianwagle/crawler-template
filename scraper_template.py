@@ -40,7 +40,7 @@ from selenium_stealth import stealth as shh
 DIR_ROOT = Path(__file__).resolve(strict=1).parent
 DIR_DATA = f"../data/"
 DIR_LOGS = f"./logs/"
-DIR_HTML = f"../data/html/images"
+DIR_HTML = f"../data/html/"
 DIR_IMGS = f"../data/imgs/"
 CHROME_DRIVER = f"./chromedriver"
 
